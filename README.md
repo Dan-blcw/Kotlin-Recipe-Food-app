@@ -4,4 +4,4 @@
 - Gradle
 - Android studio
 ## Preamble
-![image](https://github.com/Dan-blcw/Kotlin-Recipe-Food-app/assets/127305381/c37a7905-9ff1-47d2-9d05-a869cdfa9297)
+![image](https://github.com/Dan-blcw/Kotlin-Recipe-Food-app/assets/127305381/975d9529-9f35-4dae-bdb9-bb962749e0e7)
